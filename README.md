@@ -154,5 +154,3 @@ This repository contains a collection of Java programming challenges designed to
 148. [Find the Number of Ways to Tile a 2xN Board](#148-find-the-number-of-ways-to-tile-a-2xn-board)
 149. [Find the Maximum Sum of Three Non-Overlapping Subarrays](#149-find-the-maximum-sum-of-three-non-overlapping-subarrays)
 150. [Find the Minimum Number of Steps to Make a String Palindrome](#150-find-the-minimum-number-of-steps-to-make-a-string-palindrome)
-151. [Find the Number of Ways to Form a Number using Given Digits](#151-find-the-number-of-ways-to-form-a-number-using-given-digits)
-152. [Find the Minimum Number of Operations to Convert a String](#152-find-the-minimum-number-of-operations-to
